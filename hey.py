@@ -1,0 +1,7 @@
+a = int(input("enter a:"))
+b = int(input("enter b:"))
+print("your addition is:",a+b)
+print("your sub is:",a-b)
+print("your multiplication is :",a*b)
+print("your division is :",a/b)
+print("your average is :",a%b)
